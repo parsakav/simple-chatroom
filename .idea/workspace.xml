@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9d23095-aa97-47d3-bb70-adf3ced5b78c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MuBzCKg1WspuKRQfmmbooOyhFi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/parsa/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\parsa\Documents\chat-server\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\parsa\Documents\chat-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MessageRepositoryTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.bavand.chatserver.Main" />
+      <module name="chat-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.bavand.chatserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chat-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.bavand.chatserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.bavand.chatserver" />
+      <option name="MAIN_CLASS_NAME" value="ir.bavand.chatserver.MessageRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageRepositoryTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chat-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.bavand.chatserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.bavand.chatserver" />
+      <option name="MAIN_CLASS_NAME" value="ir.bavand.chatserver.MessageRepositoryTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageRepositoryTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chat-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.bavand.chatserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.bavand.chatserver" />
+      <option name="MAIN_CLASS_NAME" value="ir.bavand.chatserver.MessageRepositoryTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chat-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.bavand.chatserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.bavand.chatserver" />
+      <option name="MAIN_CLASS_NAME" value="ir.bavand.chatserver.RedisTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessageRepositoryTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MessageRepositoryTest.getAll" />
+        <item itemvalue="JUnit.MessageRepositoryTest.add" />
+        <item itemvalue="JUnit.RedisTest.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d23095-aa97-47d3-bb70-adf3ced5b78c" name="Changes" comment="" />
+      <created>1678607846741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678607846741</updated>
+      <workItem from="1678607848098" duration="149000" />
+      <workItem from="1678608009440" duration="851000" />
+      <workItem from="1678608924606" duration="1829000" />
+      <workItem from="1678615482459" duration="847000" />
+      <workItem from="1678629938218" duration="29000" />
+      <workItem from="1678630020585" duration="6563000" />
+      <workItem from="1678637756714" duration="1803000" />
+      <workItem from="1679214136718" duration="15898000" />
+      <workItem from="1679350016304" duration="19000" />
+      <workItem from="1679350055739" duration="12932000" />
+      <workItem from="1679734939147" duration="473000" />
+      <workItem from="1679999777397" duration="3000" />
+      <workItem from="1685051939634" duration="291000" />
+      <workItem from="1685052330389" duration="504000" />
+      <workItem from="1691236334102" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
